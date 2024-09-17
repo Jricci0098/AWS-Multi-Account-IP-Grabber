@@ -46,7 +46,7 @@ This PowerShell script generates a report of AWS resources across multiple profi
    - Execute the script in PowerShell.
    - Example:
      ```powershell
-     .\AWS-Resources-Report.ps1
+     .\RainingAWSIPs.ps1
      ```
 4. **Check the Output**:
    - The report will be saved as a CSV and an Excel file in the user's home directory with the current date included in the filename.
